@@ -19,6 +19,10 @@ tags:
   - aprendizado de máquina
   - sistema terrestre
 
+categories:
+  - Extensão
+  - Pesquisa
+
 order: 1
 ---
 

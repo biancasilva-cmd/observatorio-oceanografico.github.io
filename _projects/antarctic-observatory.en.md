@@ -19,6 +19,10 @@ tags:
   - machine learning
   - Earth system science
 
+categories:
+  - Outreach
+  - Research
+
 order: 1  
 ---
 

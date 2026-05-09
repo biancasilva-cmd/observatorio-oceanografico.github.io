@@ -31,6 +31,6 @@ Nos meu momentos livres, o surfe e o mar são minhas principais paixões, seja a
 
 Você pode encontrar alguns dos projetos no meu github: https://github.com/Schimidel
 
-Me contactar no [Linkedin:]{https://www.linkedin.com/in/gabriel-schimidel-1337a8255/}
+Me contactar no [Linkedin:][https://www.linkedin.com/in/gabriel-schimidel-1337a8255/]
 
 E acompanhar oque produzo em: https://www.researchgate.net/profile/Gabriel-Ramos-De-Oliveira?ev=hdr_xprf

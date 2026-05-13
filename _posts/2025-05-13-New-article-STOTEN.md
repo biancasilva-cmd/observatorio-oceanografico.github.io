@@ -7,7 +7,7 @@ excerpt: "Article published in Science of the Total Environment, co-authored by 
 ---
 
 <p align="center">
-  <img src="{{ '/assets/img/noticias/2026-05-13_STOTEN.png' | relative_url }}" alt="Article published in Science of the Total Environment" width="350">
+  <img src="{{ '/assets/img/noticias/2026-05-13_NewArticle_STOTEN.png' | relative_url }}" alt="Article published in Science of the Total Environment" width="350">
 </p>
 
 **New article in _Science of the Total Environment_ investigates trace metal and organic carbon fluxes on the Cabo Frio continental margin**
@@ -26,7 +26,7 @@ This work also has special significance for the trajectory of O². When Prof. An
 
 The publication reinforces the importance of scientific collaboration networks between institutions and complementary areas, bringing together **physical oceanography**, **marine geochemistry**, **biogeochemistry** and time series analysis to understand the processes that connect ocean productivity, the carbon cycle and metal transport in the South Atlantic.
 
-The final version of the article is available online on the page of (Science of The Total Environment via ScienceDirect)[https://www.sciencedirect.com/science/article/pii/S0048969726005218].
+The final version of the article is available online on the page of [Science of The Total Environment via ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969726005218).
 
 ---
 

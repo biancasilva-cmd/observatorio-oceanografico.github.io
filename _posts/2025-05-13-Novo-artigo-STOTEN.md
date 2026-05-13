@@ -7,7 +7,7 @@ excerpt: "Artigo publicado na Science of the Total Environment, com coautoria do
 ---
 
 <p align="center">
-  <img src="{{ '/assets/img/noticias/2026-05-13_STOTEN.png' | relative_url }}" alt="Artigo publicado na Science of the Total Environment" width="350">
+  <img src="{{ '/assets/img/noticias/2026-05-13_NewArticle_STOTEN.png' | relative_url }}" alt="Artigo publicado na Science of the Total Environment" width="350">
 </p>
 
 **Novo artigo na _Science of the Total Environment_ investiga fluxos de metais-traço e carbono orgânico na margem continental de Cabo Frio**
@@ -26,7 +26,7 @@ Esse trabalho também tem um significado especial para a trajetória do O². Qua
 
 A publicação reforça a importância das redes de colaboração científica entre instituições e áreas complementares, reunindo **oceanografia física**, **geoquímica marinha**, **biogeoquímica** e análise de séries temporais para compreender os processos que conectam a produtividade oceânica, o ciclo do carbono e o transporte de metais no Atlântico Sul.
 
-A versão final do artigo está disponível online na página da (Science of The Total Environment via ScienceDirect)[https://www.sciencedirect.com/science/article/pii/S0048969726005218].
+A versão final do artigo está disponível online na página da [Science of The Total Environment via ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969726005218).
 
 ---
 

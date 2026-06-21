@@ -9,7 +9,7 @@ role: "Bolsista de Extensão - Cultura Oceânica"
 affiliation: "Curso de Graduação em Geografia"
 affiliation_url: "https://geografia.sites.uff.br/"
 
-avatar: "/assets/img/people/bianca-silva.png"
+avatar: "/assets/img/people/bianca-silva.jpg"
 
 email: "biancasilva@id.uff.br"
 github: "https://github.com/biancasilva-cmd"
@@ -32,6 +32,7 @@ Também participei do Programa Institucional de Bolsa de Iniciação à Docênci
 Tenho interesse nas áreas de Ensino de Geografia, Educação Ambiental, Geografia da População, Geografia Regional e Formação de Professores. Busco compreender como os processos econômicos, sociais, históricos e culturais produzem desigualdades e transformações no espaço geográfico, bem como o papel da educação na construção de leituras mais críticas da realidade.
 
 **Contato**
+
 Acredito que o conhecimento se constrói por meio das trocas e dos encontros. Estou sempre aberta ao diálogo.
 E-mail: biancasilva@id.uff.br
 
